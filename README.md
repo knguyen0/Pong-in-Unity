@@ -24,4 +24,4 @@ Bounce Physics
 * Unity's physics engine is utilised in order for the ball to bounce off of the borders and paddles correctly.
 
 Changing Background
-* The background smoothly transitions into another random colour. 
+* The background smoothly transitions into random colours continually. 
